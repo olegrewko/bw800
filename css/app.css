@@ -27,6 +27,16 @@ a:hover {
     
 
 }
+.social {
+    border-bottom: 1px solid #636e74;
+    margin-bottom: 0px ;
+    background:orange;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+     color: #636e74;
+      font-weight: 300;
+       font-size: 1rem;
+}
 
 .roll { position: relative; display: inline-block; }
 .rollover { position: absolute; top: 0; left:0; }
