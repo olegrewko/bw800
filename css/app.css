@@ -28,7 +28,7 @@ a:hover {
 
 }
 .social {
-   padding-top: 25px;
+   padding-top: 10px;
    padding-bottom: 25px;
     background:orange;
    
@@ -55,7 +55,7 @@ hr { border-top: 0px solid #e4e7e9; margin-bottom: 25px; margin-top: 25px; }
 
 
 
-.tiny-footer { font-size: 14px; padding-top: 25px; padding-bottom: 25px; font-weight: 600; background-color: transparent; border-top: 1px solid #636e74; color: #888d90; line-height: 1; }
+.tiny-footer { font-size: 14px; padding-top: 10px; padding-bottom: 25px; font-weight: 600; background-color: transparent; border-top: 1px solid #636e74; color: #888d90; line-height: 1; }
 
 
 .mlwh {
